@@ -1,5 +1,5 @@
-# Türkçe Kitapların, paragraflarına gore kitap kategorisinin Sınıflandırılması
-# natural language processing ile türkçe metinlerin işlenmesi ve sayılaştırılması machine learnin algoritmalarının uygulanması
+Classification of Turkish Books according to their paragraphs
+Processing and numbering Turkish texts with natural language processing and application of machine learning algorithms
 
 
 
